@@ -40,7 +40,7 @@
       <li><code>py moogle.py words_dict https://www.cs.huji.ac.il/w~intro2cs1/ex6/wiki/ crawl_result.pickle words_dict_result.pickleesult.pickle</code></li>
       <li><code>py moogle.py search Harry page_rank_result.pickle words_dict_result.pickle 5</code></li>
     </ol>
-    <img src="./Media/1.png" alt="1" width="500px" />  
+    <img src="./images/1.png" alt="1" width="500px" />  
   </div>
 </div>
 
