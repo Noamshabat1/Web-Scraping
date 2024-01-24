@@ -1,5 +1,7 @@
 <div align="center">
-  <h1 align="center" style="border-bottom: none"><b>Exercise 6</b> - Moogle</h1>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Hebrew_University_Logo.svg/1200px-Hebrew_University_Logo.svg.png" alt="huji-logo" height="150px" />
+  <h1 align="center" style="border-bottom: none"><b>Introduction to Computer Science - Exercise 6</b> - Moogle</b></h1>
+
 
   <p align="center">
     <b>Moogle</b> is the 6th exercise I've solved in Huji's <b>Introduction to Computer Science</b> course.
